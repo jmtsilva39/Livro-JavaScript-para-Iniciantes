@@ -100,4 +100,12 @@ for(let i=0; i <=10; i++){
     console.log(i);
 }
 
+console.log('-----------------------------------')
 /* Crie um loop while que imprima os números de 10 a 1 no console */
+
+let j=10;
+
+while (j > 0) {
+    console.log(j);
+    j--;
+}
